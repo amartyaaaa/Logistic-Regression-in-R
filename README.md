@@ -1,0 +1,2 @@
+# Logistic-Regression-in-R
+The Logistic Regression model is used to return probabilities of the occurance of the event. It is a linear classifer which based on the probability decides whether the happening of the event. that dataset given consists of 400 entries of people along with their salaries, gender and whether or not they'll buy the car. The classifier is used to divide people into two categories, namely who'll buy or not and the model is trained on 300 entries and thereafter is tested on 100 entries.
